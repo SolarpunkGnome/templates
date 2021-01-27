@@ -1,0 +1,14 @@
+---
+date_added: 2021-01-26
+title: Lausatek KG-2017
+category: switch
+type: Switch
+standard: us
+link: https://www.amazon.com/gp/product/B0773HJ2DH/
+image: https://user-images.githubusercontent.com/5904370/71753783-ec672e80-2e83-11ea-80b8-7620d04d681a.png
+template: '{"NAME":"Lausatek","GPIO":[1,1,1,1,320,289,1,1,224,64,1,1,1,1],"FLAG":0,"BASE":18}' 
+link2: 
+---
+
+ESP Module is Tuya TYWE2S https://docs.tuya.com/en/hardware/WiFi-module/wifi-e3s-module.html
+
